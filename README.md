@@ -1,7 +1,10 @@
-# test coverage for  [grunt-browserify (v5.0.0)](https://github.com/jmreidy/grunt-browserify)  [![npm package](https://img.shields.io/npm/v/npmtest-grunt-browserify.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-grunt-browserify) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-grunt-browserify.svg)](https://travis-ci.org/npmtest/node-npmtest-grunt-browserify)
+# npmtest-grunt-browserify
+
+#### test coverage for  [grunt-browserify (v5.0.0)](https://github.com/jmreidy/grunt-browserify)  [![npm package](https://img.shields.io/npm/v/npmtest-grunt-browserify.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-grunt-browserify) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-grunt-browserify.svg)](https://travis-ci.org/npmtest/node-npmtest-grunt-browserify)
+
 #### Grunt task for node-browserify
 
-[![NPM](https://nodei.co/npm/grunt-browserify.png?downloads=true)](https://www.npmjs.com/package/grunt-browserify)
+[![NPM](https://nodei.co/npm/grunt-browserify.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/grunt-browserify)
 
 | git-branch : | [alpha](https://github.com/npmtest/node-npmtest-grunt-browserify/tree/alpha)|
 |--:|:--|
@@ -9,11 +12,17 @@
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-grunt-browserify/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-grunt-browserify/build/test-report.html)|
 | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-grunt-browserify/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-grunt-browserify/tree/gh-pages/build)|
 
-[![istanbul-coverage](https://npmtest.github.io/node-npmtest-grunt-browserify/build/screenCapture.buildCustomOrg.browser.coverage.html.png)](https://npmtest.github.io/node-npmtest-grunt-browserify/build/coverage.html/index.html)
+- [https://npmtest.github.io/node-npmtest-grunt-browserify/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-grunt-browserify/build/coverage.html/index.html)
 
-[![test-report](https://npmtest.github.io/node-npmtest-grunt-browserify/build/screenCapture.buildCustomOrg.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmtest%252Fnode-npmtest-grunt-browserify%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-grunt-browserify/build/test-report.html)
+[![istanbul-coverage](https://npmtest.github.io/node-npmtest-grunt-browserify/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fcoverage.lib.html.png)](https://npmtest.github.io/node-npmtest-grunt-browserify/build/coverage.html/index.html)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-grunt-browserify/build/screenCapture.buildApidoc.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmdoc%252Fnode-npmdoc-grunt-browserify%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-grunt-browserify/build/apidoc.html)
+- [https://npmtest.github.io/node-npmtest-grunt-browserify/build/test-report.html](https://npmtest.github.io/node-npmtest-grunt-browserify/build/test-report.html)
+
+[![test-report](https://npmtest.github.io/node-npmtest-grunt-browserify/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-grunt-browserify/build/test-report.html)
+
+- [https://npmdoc.github.io/node-npmdoc-grunt-browserify/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-grunt-browserify/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-grunt-browserify/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-grunt-browserify/build/apidoc.html)
 
 ![npmPackageListing](https://npmtest.github.io/node-npmtest-grunt-browserify/build/screenCapture.npmPackageListing.svg)
 
@@ -31,12 +40,10 @@
     },
     "contributors": [
         {
-            "name": "Justin Reidy",
-            "email": "jmreidy@rzrsharp.net"
+            "name": "Justin Reidy"
         },
         {
-            "name": "Tommy Leunen",
-            "email": "tommy.leunen@gmail.com"
+            "name": "Tommy Leunen"
         }
     ],
     "dependencies": {
@@ -84,17 +91,14 @@
     "main": "tasks/browserify.js",
     "maintainers": [
         {
-            "name": "jmreidy",
-            "email": "jmreidy@rzrsharp.net"
+            "name": "jmreidy"
         },
         {
-            "name": "tleunen",
-            "email": "tommy.leunen@gmail.com"
+            "name": "tleunen"
         }
     ],
     "name": "grunt-browserify",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git://github.com/jmreidy/grunt-browserify.git"
